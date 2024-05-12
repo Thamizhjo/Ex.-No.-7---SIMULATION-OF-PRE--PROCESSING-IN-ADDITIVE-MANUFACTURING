@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2024-05-12 151702](https://github.com/Thamizhjo/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/123891476/9f15c38e-0464-40b0-b349-d50404c97d79)
 
-### Name:
-### Register Number:
+### Name:THAMIZH KUMARAN P S
+### Register Number:212223240166
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
